@@ -1,1 +1,1 @@
-variable codedeploy_app_name { }
+variable "codedeploy_app_name" { }
